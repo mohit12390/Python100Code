@@ -1,0 +1,1 @@
+print("Hello world", 10, 12 ,sep=":")
