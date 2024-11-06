@@ -1,5 +1,3 @@
-#/bin/bash
+#!/bin/bash
 
-git add . && git commit -m "my commit"
-
-git push
+git add . && git commit -m "my commit" && git push
